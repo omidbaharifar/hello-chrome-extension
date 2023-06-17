@@ -1,8 +1,8 @@
 {
+  "version": "1.0",
   "manifest_version": 3,
   "name": "umm arreee",
   "description": "ye toop daram ghelghelie",
-  "version": "1.0",
   "action": {
     "default_popup": "index.html",
     "default_icon": "icon.png"
